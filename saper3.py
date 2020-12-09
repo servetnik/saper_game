@@ -3,6 +3,7 @@ import random
 
 window = Tk()
 window.geometry("800x900")
+window.resizable(False, False)
 n = 1
 m = 1
 i1 = 0
