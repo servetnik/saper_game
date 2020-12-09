@@ -4,6 +4,7 @@ import random
 window = Tk()
 window.geometry("800x900")
 window.resizable(False, False)
+window.title("Обойди все мины!")
 n = 1
 m = 1
 i1 = 0
